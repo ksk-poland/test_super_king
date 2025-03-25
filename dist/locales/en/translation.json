@@ -1,0 +1,158 @@
+{
+    "header": {
+      "home": "Home",
+      "menu": "Menu",
+      "locations": "Locations",
+      "aboutUs": "About Us",
+      "order": "Order",
+      "callToOrder": "Call to Order"
+    },
+    "footer": {
+      "contactUs": "Contact Us",
+      "openingHours": "Opening Hours",
+      "quickLinks": "Quick Links",
+      "orderOnline": "Order Online",
+      "orderThroughPartners": "Order through our delivery partners for fast delivery across Poland.",
+      "companyDescription": "Authentic Turkish and Middle Eastern kebabs made with fresh ingredients and traditional recipes since 2016.",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "allRightsReserved": "All rights reserved"
+    },
+    "testimonials": {
+      "title": "What Our Customers Say",
+      "subtitle": "We take pride in serving our customers",
+      "testimonial1": {
+        "content": "Absolutely the best kebab shop in town! Their Mixed Doner is mouth-watering, and the service is always friendly and quick.",
+        "author": "Michael Johnson",
+        "role": "Regular Customer"
+      },
+      "testimonial2": {
+        "content": "I've tried kebabs from all over the city, but Super King Kebab stands out from the rest. Fresh ingredients and authentic flavors!",
+        "author": "Sarah Williams",
+        "role": "Food Blogger"
+      },
+      "testimonial3": {
+        "content": "The chicken doner kebab is simply divine! I order at least once a week, and the quality is consistently excellent.",
+        "author": "David Thompson",
+        "role": "Local Resident"
+      }
+    },
+    "hero": {
+      "title": "Authentic Turkish Kebabs",
+      "subtitle": "Experience the rich flavors of traditional kebabs in Poland with Kebab Super King.",
+      "viewMenu": "View Our Menu",
+      "findUs": "Find Us",
+      "orderOnlineVia": "Order online via:"
+    },
+    "menuPage": {
+      "title": "Our Menu",
+      "subtitle": "Authentic kebabs and Middle Eastern cuisine prepared with fresh ingredients daily",
+      "availableOn": "Available on:",
+      "orderNow": "Order Now",
+      "dietaryInfo": {
+        "title": "Dietary Information",
+        "description": "Ask our staff about allergens and dietary requirements. We can customize your order."
+      },
+      "openingHours": {
+        "title": "Opening Hours",
+        "description": "Monday to Thursday: 11:00 - 22:00\nFriday to Sunday: 11:00 - 23:00"
+      },
+      "orderOnline": {
+        "title": "Order Online",
+        "description": "Order directly through our delivery partners for fast and convenient delivery across Poland."
+      },
+      "deliveryPlatforms": "Available on Delivery Platforms",
+      "downloadMenu": "Download Full Menu (PDF)",
+      "unavailable": "Unavailable"
+    },
+    "aboutUsPage": {
+      "title": "About Us",
+      "ourStory": {
+        "title": "Our Story",
+        "paragraph1": "Kebab Super King was founded in 2010 with a vision to bring authentic Turkish cuisine to Poland. What began as a single location has now grown to over 40 restaurants across the country, serving thousands of satisfied customers daily.",
+        "paragraph2": "Our journey started with a passion for traditional recipes and cooking methods. We've maintained our commitment to authenticity and quality throughout our expansion, ensuring that every Kebab Super King location delivers the same exceptional experience.",
+        "paragraph3": "Today, we're proud to be one of Poland's favorite kebab restaurant chains, known for our consistent quality, generous portions, and friendly service across all our locations."
+      },
+      "ourValues": {
+        "title": "Our Values",
+        "authenticity": {
+          "title": "Authenticity",
+          "description": "We stay true to traditional recipes and cooking methods, never compromising on the authentic taste."
+        },
+        "quality": {
+          "title": "Quality",
+          "description": "We use only fresh ingredients, premium meats, and finest spices to create exceptional dishes."
+        },
+        "community": {
+          "title": "Community",
+          "description": "We believe in creating welcoming spaces where people can gather to enjoy great food."
+        }
+      },
+      "qualityCommitment": {
+        "title": "Our Commitment to Quality",
+        "freshIngredients": {
+          "title": "Fresh Ingredients",
+          "description": "We work with trusted suppliers to source the freshest vegetables, meats, and spices. Our ingredients are delivered daily to ensure maximum freshness."
+        },
+        "trainedChefs": {
+          "title": "Trained Chefs",
+          "description": "Our chefs undergo rigorous training to master the art of kebab preparation. They follow traditional techniques to ensure authentic flavor in every dish."
+        },
+        "qualityControl": {
+          "title": "Quality Control",
+          "description": "We maintain strict quality control standards across all locations to ensure consistency and excellence in every meal we serve."
+        },
+        "customerSatisfaction": {
+          "title": "Customer Satisfaction",
+          "description": "Our top priority is your satisfaction. We value your feedback and continuously strive to improve our service and offerings."
+        }
+      },
+      "newsletter": {
+        "title": "Join Our Newsletter",
+        "description": "Subscribe to receive updates about new menu items, special promotions, and upcoming locations.",
+        "placeholder": "Your email address",
+        "button": "Subscribe",
+        "terms": "By subscribing, you agree to receive marketing communications from us. You can unsubscribe at any time.",
+        "thankYou": "Thank you for subscribing!",
+        "confirmation": "You'll receive our next newsletter in your inbox."
+      }
+    },
+    "branchesPage": {
+      "title": "Our Locations",
+      "subtitle": "Find the Kebab Super King restaurant nearest to you",
+      "searchPlaceholder": "Search by location or address...",
+      "allCities": "All Cities",
+      "findUsNearYou": "Find Us Near You",
+      "locationsCount": "We have {{count}} locations across Poland to serve you better.",
+      "locations": "locations",
+      "location": "location",
+      "noLocationsFound": "No locations found",
+      "noLocationsDescription": "No locations match your current search criteria. Please try a different search term or city filter.",
+      "resetFilters": "Reset Filters",
+      "needHelp": "Need Help?",
+      "callForOrdering": "Call your nearest Kebab Super King location for ordering or inquiries."
+    },
+    "homepage": {
+      "bestSellers": "Our Best Sellers",
+      "bestSellersDescription": "Discover our most popular kebabs that keep our customers coming back for more",
+      "orderNow": "Order Now",
+      "viewFullMenu": "View Full Menu",
+      "promiseTitle": "The Super King Kebab Promise",
+      "promiseDescription": "We use only the freshest ingredients, traditional recipes, and cooking methods to bring you the authentic taste of kebab royalty.",
+      "freshIngredients": "Fresh Ingredients",
+      "freshIngredientsDesc": "Only the freshest and highest quality ingredients make it into our kebabs.",
+      "familyRecipe": "Family Recipe",
+      "familyRecipeDesc": "Our secret family recipes have been passed down through generations.",
+      "dailyFresh": "Daily Fresh",
+      "dailyFreshDesc": "Every day we prepare our ingredients fresh for the best taste and quality.",
+      "findUs": "Find Us",
+      "findUsDescription": "Visit one of our locations in these cities or order online for delivery",
+      "ourCities": "Our Cities",
+      "findExactLocations": "Find Exact Locations",
+      "stayUpdated": "Stay Updated",
+      "stayUpdatedDescription": "Subscribe to our newsletter for special offers, new menu items, and exclusive events",
+      "emailPlaceholder": "Your email address",
+      "subscribe": "Subscribe",
+      "privacyNote": "We respect your privacy and never share your data."
+    }
+  }
