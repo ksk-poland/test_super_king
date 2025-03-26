@@ -1,0 +1,158 @@
+{
+    "header": {
+      "home": "Strona główna",
+      "menu": "Menu",
+      "locations": "Lokalizacje",
+      "aboutUs": "O Nas",
+      "order": "Zamów",
+      "callToOrder": "Zadzwoń i zamów"
+    },
+    "footer": {
+      "contactUs": "Kontakt",
+      "openingHours": "Godziny otwarcia",
+      "quickLinks": "Szybkie linki",
+      "orderOnline": "Zamów online",
+      "orderThroughPartners": "Zamawiaj przez naszych partnerów dostawczych, aby uzyskać szybką dostawę w całej Polsce.",
+      "companyDescription": "Autentyczne tureckie i bliskowschodnie kebaby przygotowywane ze świeżych składników i według tradycyjnych przepisów od 2016 roku.",
+      "privacyPolicy": "Polityka prywatności",
+      "termsOfService": "Warunki korzystania",
+      "allRightsReserved": "Wszelkie prawa zastrzeżone"
+    },
+    "testimonials": {
+      "title": "Co mówią nasi klienci",
+      "subtitle": "Jesteśmy dumni z obsługi naszych klientów",
+      "testimonial1": {
+        "content": "Absolutnie najlepszy kebab w mieście! Ich mieszany Doner jest pyszny, a obsługa zawsze przyjazna i szybka.",
+        "author": "Michael Johnson",
+        "role": "Stały klient"
+      },
+      "testimonial2": {
+        "content": "Próbowałam kebabów z całego miasta, ale Super King Kebab wyróżnia się na tle innych. Świeże składniki i autentyczne smaki!",
+        "author": "Sarah Williams",
+        "role": "Blogerka kulinarna"
+      },
+      "testimonial3": {
+        "content": "Kebab z kurczakiem jest po prostu boski! Zamawiam przynajmniej raz w tygodniu, a jakość jest niezmiennie doskonała.",
+        "author": "David Thompson",
+        "role": "Okoliczny mieszkaniec"
+      }
+    },
+    "hero": {
+      "title": "Autentyczne tureckie kebaby",
+      "subtitle": "Doświadcz bogactwa smaków tradycyjnych kebabów w Polsce z Kebab Super King.",
+      "viewMenu": "Zobacz nasze menu",
+      "findUs": "Znajdź nas",
+      "orderOnlineVia": "Zamów online przez:"
+    },
+    "menuPage": {
+      "title": "Nasze Menu",
+      "subtitle": "Autentyczne kebaby i bliskowschodnie dania przygotowywane codziennie ze świeżych składników",
+      "availableOn": "Dostępne na:",
+      "orderNow": "Zamów teraz",
+      "dietaryInfo": {
+        "title": "Informacje dietetyczne",
+        "description": "Zapytaj nasz personel o alergeny i wymagania dietetyczne. Możemy dostosować Twoje zamówienie."
+      },
+      "openingHours": {
+        "title": "Godziny otwarcia",
+        "description": "Poniedziałek - Czwartek: 11:00 - 22:00\nPiątek - Niedziela: 11:00 - 23:00"
+      },
+      "orderOnline": {
+        "title": "Zamów online",
+        "description": "Zamawiaj bezpośrednio przez naszych partnerów dostawczych, aby uzyskać szybką i wygodną dostawę w całej Polsce."
+      },
+      "deliveryPlatforms": "Dostępne na platformach dostawczych",
+      "downloadMenu": "Pobierz pełne menu (PDF)",
+      "unavailable": "Niedostępne"
+    },
+    "aboutUsPage": {
+      "title": "O Nas",
+      "ourStory": {
+        "title": "Nasza Historia",
+        "paragraph1": "Kebab Super King został założony w 2010 roku z wizją wprowadzenia autentycznej kuchni tureckiej do Polski. To, co zaczęło się jako pojedynczy lokal, rozrosło się do ponad 40 restauracji w całym kraju, obsługujących codziennie tysiące zadowolonych klientów.",
+        "paragraph2": "Nasza podróż rozpoczęła się od pasji do tradycyjnych przepisów i metod gotowania. Utrzymaliśmy nasze zaangażowanie w autentyczność i jakość przez cały okres ekspansji, zapewniając, że każda lokalizacja Kebab Super King oferuje to samo wyjątkowe doświadczenie.",
+        "paragraph3": "Dziś jesteśmy dumni, że jesteśmy jedną z ulubionych sieci restauracji kebabowych w Polsce, znaną z niezmiennej jakości, hojnych porcji i przyjaznej obsługi we wszystkich naszych lokalizacjach."
+      },
+      "ourValues": {
+        "title": "Nasze Wartości",
+        "authenticity": {
+          "title": "Autentyczność",
+          "description": "Pozostajemy wierni tradycyjnym przepisom i metodom gotowania, nigdy nie idąc na kompromis w kwestii autentycznego smaku."
+        },
+        "quality": {
+          "title": "Jakość",
+          "description": "Używamy tylko świeżych składników, wysokiej jakości mięs i najlepszych przypraw do tworzenia wyjątkowych dań."
+        },
+        "community": {
+          "title": "Społeczność",
+          "description": "Wierzymy w tworzenie przyjaznych przestrzeni, gdzie ludzie mogą się spotykać, aby cieszyć się dobrym jedzeniem."
+        }
+      },
+      "qualityCommitment": {
+        "title": "Nasze Zobowiązanie do Jakości",
+        "freshIngredients": {
+          "title": "Świeże Składniki",
+          "description": "Współpracujemy z zaufanymi dostawcami, aby pozyskiwać najświeższe warzywa, mięsa i przyprawy. Nasze składniki są dostarczane codziennie, aby zapewnić maksymalną świeżość."
+        },
+        "trainedChefs": {
+          "title": "Wyszkoleni Kucharze",
+          "description": "Nasi kucharze przechodzą rygorystyczne szkolenia, aby opanować sztukę przygotowywania kebabów. Stosują tradycyjne techniki, aby zapewnić autentyczny smak w każdym daniu."
+        },
+        "qualityControl": {
+          "title": "Kontrola Jakości",
+          "description": "Utrzymujemy surowe standardy kontroli jakości we wszystkich lokalizacjach, aby zapewnić spójność i doskonałość w każdym serwowanym posiłku."
+        },
+        "customerSatisfaction": {
+          "title": "Zadowolenie Klienta",
+          "description": "Naszym priorytetem jest Twoje zadowolenie. Cenimy Twoją opinię i stale dążymy do poprawy naszych usług i oferty."
+        }
+      },
+      "newsletter": {
+        "title": "Dołącz do Naszego Newslettera",
+        "description": "Zapisz się, aby otrzymywać aktualizacje o nowych pozycjach w menu, specjalnych promocjach i nadchodzących lokalizacjach.",
+        "placeholder": "Twój adres email",
+        "button": "Zapisz się",
+        "terms": "Zapisując się, zgadzasz się na otrzymywanie komunikacji marketingowej od nas. Możesz zrezygnować w dowolnym momencie.",
+        "thankYou": "Dziękujemy za zapisanie się!",
+        "confirmation": "Otrzymasz nasz następny newsletter na swoją skrzynkę odbiorczą."
+      }
+    },
+    "branchesPage": {
+      "title": "Nasze Lokalizacje",
+      "subtitle": "Znajdź najbliższą restaurację Kebab Super King",
+      "searchPlaceholder": "Szukaj według lokalizacji lub adresu...",
+      "allCities": "Wszystkie Miasta",
+      "findUsNearYou": "Znajdź Nas w Pobliżu",
+      "locationsCount": "Mamy {{count}} lokalizacji w całej Polsce, aby lepiej Ci służyć.",
+      "locations": "lokalizacje",
+      "location": "lokalizacja",
+      "noLocationsFound": "Nie znaleziono lokalizacji",
+      "noLocationsDescription": "Żadne lokalizacje nie pasują do obecnych kryteriów wyszukiwania. Spróbuj innego terminu wyszukiwania lub filtra miasta.",
+      "resetFilters": "Resetuj Filtry",
+      "needHelp": "Potrzebujesz Pomocy?",
+      "callForOrdering": "Zadzwoń do najbliższej lokalizacji Kebab Super King, aby złożyć zamówienie lub uzyskać informacje."
+    },
+    "homepage": {
+      "bestSellers": "Nasze bestsellery",
+      "bestSellersDescription": "Odkryj nasze najpopularniejsze kebaby, które sprawiają, że nasi klienci wracają po więcej",
+      "orderNow": "Zamów teraz",
+      "viewFullMenu": "Zobacz pełne menu",
+      "promiseTitle": "Obietnica Super King Kebab",
+      "promiseDescription": "Używamy tylko najświeższych składników, tradycyjnych przepisów i metod gotowania, aby zapewnić autentyczny smak kebabowej królewskiej kuchni.",
+      "freshIngredients": "Świeże składniki",
+      "freshIngredientsDesc": "Tylko najświeższe i najwyższej jakości składniki trafiają do naszych kebabów.",
+      "familyRecipe": "Rodzinny przepis",
+      "familyRecipeDesc": "Nasze tajne rodzinne przepisy były przekazywane z pokolenia na pokolenie.",
+      "dailyFresh": "Codziennie świeże",
+      "dailyFreshDesc": "Każdego dnia przygotowujemy nasze składniki na świeżo, aby zapewnić najlepszy smak i jakość.",
+      "findUs": "Znajdź nas",
+      "findUsDescription": "Odwiedź jedną z naszych lokalizacji w tych miastach lub zamów online z dostawą",
+      "ourCities": "Nasze miasta",
+      "findExactLocations": "Znajdź dokładne lokalizacje",
+      "stayUpdated": "Bądź na bieżąco",
+      "stayUpdatedDescription": "Zapisz się do naszego newslettera, aby otrzymywać specjalne oferty, informacje o nowych pozycjach w menu i ekskluzywnych wydarzeniach",
+      "emailPlaceholder": "Twój adres email",
+      "subscribe": "Zapisz się",
+      "privacyNote": "Szanujemy Twoją prywatność i nigdy nie udostępniamy Twoich danych."
+    }
+  }
